@@ -1,14 +1,18 @@
 import React from 'react';
+import { ThemeProvider } from 'styled-components'
+import light from './styles/themes/light'
 
 import Header from './components/Header'
 import GlobalStyle from './styles/global'
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <GlobalStyle />
-    </div>
+    <ThemeProvider theme={light}>
+      <div className="App">
+        <Header />
+        <GlobalStyle />
+      </div>
+    </ThemeProvider>
   );
 }
 
