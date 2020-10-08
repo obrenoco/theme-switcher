@@ -11,7 +11,7 @@
   <img  src="https://img.shields.io/github/stars/obrenoco/theme-switcher"/>
   </a>
   <img  src="https://img.shields.io/github/forks/obrenoco/theme-switcher"/>
-  </a>
+  </>
 </p>
 
 
@@ -20,11 +20,15 @@
 
 
 
-> This is a Theme Switcher micro-code.
+> This is a Theme Switcher micro-code. 
 
-
+  
 
 <br />
+
+<p  align="center">
+<img  src="https://media.giphy.com/media/hnFPfsoBSS1J0LpOxH/giphy.gif" />
+</p>
 
 
 
