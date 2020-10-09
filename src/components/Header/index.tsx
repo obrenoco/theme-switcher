@@ -14,7 +14,7 @@ const Header: React.FC<Props> = ({toggleTheme}) => {
 
   return (
     <Container>
-      <h1>Header</h1>
+      <h1>Netflix</h1>
 
       <Switch 
         onChange={toggleTheme}
